@@ -1,0 +1,24 @@
+2024-12-26 12:40:04.991
+		Airflow Working Directory: /home/admin1997/Documents/portfolio/automation2024-12-26 12:40:05.411
+		API request made to CoinGecko. Status code: 2002024-12-26 12:40:05.420
+		Saving file to path: /home/admin1997/Documents/portfolio/automation/crypto.csv2024-12-26 12:40:05.424
+		Successfully saved the data to /home/admin1997/Documents/portfolio/automation/crypto.csv.2024-12-26 12:40:05.425
+		Confirmed that the file /home/admin1997/Documents/portfolio/automation/crypto.csv exists.2024-12-26 12:40:09.715		Data loaded successfully into the cryptobase database.
+2024-12-26 12:42:05.111
+		Airflow Working Directory: /home/admin1997/Documents/portfolio/automation2024-12-26 12:42:05.252
+		API request made to CoinGecko. Status code: 2002024-12-26 12:42:05.254
+		Saving file to path: /home/admin1997/Documents/portfolio/automation/crypto.csv2024-12-26 12:42:05.257
+		Successfully saved the data to /home/admin1997/Documents/portfolio/automation/crypto.csv.2024-12-26 12:42:05.257
+		Confirmed that the file /home/admin1997/Documents/portfolio/automation/crypto.csv exists.2024-12-26 12:42:09.632		Data loaded successfully into the cryptobase database.
+2024-12-26 12:44:04.207
+		Airflow Working Directory: /home/admin1997/Documents/portfolio/automation2024-12-26 12:44:04.416
+		API request made to CoinGecko. Status code: 2002024-12-26 12:44:04.424
+		Saving file to path: /home/admin1997/Documents/portfolio/automation/crypto.csv2024-12-26 12:44:04.429
+		Successfully saved the data to /home/admin1997/Documents/portfolio/automation/crypto.csv.2024-12-26 12:44:04.429
+		Confirmed that the file /home/admin1997/Documents/portfolio/automation/crypto.csv exists.2024-12-26 12:44:08.839		Data loaded successfully into the cryptobase database.
+2024-12-26 12:46:05.208
+		Airflow Working Directory: /home/admin1997/Documents/portfolio/automation2024-12-26 12:46:05.556
+		API request made to CoinGecko. Status code: 2002024-12-26 12:46:05.565
+		Saving file to path: /home/admin1997/Documents/portfolio/automation/crypto.csv2024-12-26 12:46:05.569
+		Successfully saved the data to /home/admin1997/Documents/portfolio/automation/crypto.csv.2024-12-26 12:46:05.569
+		Confirmed that the file /home/admin1997/Documents/portfolio/automation/crypto.csv exists.2024-12-26 12:46:10.263		Data loaded successfully into the cryptobase database.
